@@ -1,0 +1,15 @@
+[submodule "src/3rdparty/PropertyBrowser4"]
+	path = src/3rdparty/PropertyBrowser4
+	url = git@github.com:sashatref/PropertyBrowser4.git
+[submodule "src/3rdparty/cmake_modules"]
+	path = src/3rdparty/cmake_modules
+	url = git@github.com:sashatref/cmake_modules.git
+[submodule "src/3rdparty/HelperLibrary"]
+	path = src/3rdparty/HelperLibrary
+	url = git@github.com:sashatref/HelperLibrary.git
+[submodule "src/3rdparty/deploy_tools"]
+	path = src/3rdparty/deploy_tools
+	url = git@github.com:sashatref/deploy_tools.git
+[submodule "src/3rdparty/CustomStylePlugin"]
+	path = src/3rdparty/CustomStylePlugin
+	url = git@github.com:sashatref/CustomStylePlugin.git

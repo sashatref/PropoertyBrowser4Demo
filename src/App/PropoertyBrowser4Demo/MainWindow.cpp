@@ -14,8 +14,9 @@ MainWindow::MainWindow(QWidget *parent)
 
     PropertyBrowser::registerBaseTypes();
     GadgetHelper::registerToIGadgetConverter<SimpleStruct>();
+    GadgetHelper::registerToIGadgetConverter<ComplexStruct>();
 
-    SimpleStruct v;
+    ComplexStruct v;
 
     ui->propertyBrowser->setVariant(v);
 }

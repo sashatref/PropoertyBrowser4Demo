@@ -24,7 +24,7 @@ if(NOT BUILD_STATIC)
     deployTargets(
         TARGETS
         HelperLibrary
-        PropertyBrowser3
+        PropertyBrowser4
         MAINTARGET
         PropertyBrowser4Demo
     )

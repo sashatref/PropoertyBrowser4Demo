@@ -33,6 +33,6 @@ else()
         TARGETS
         PropertyBrowser4Demo
         MAINTARGET
-        PropoertyBrowser4Demo
+        PropertyBrowser4Demo
     )
 endif()
